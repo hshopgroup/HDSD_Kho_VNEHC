@@ -8,24 +8,26 @@
 
 ## 📑 MỤC LỤC NHANH
 
-1. [Tổng quan Hệ thống & Đăng nhập](#1-tong-quan-he-thong--dang-nhap)
-2. [Phân hệ 1: Dashboard (Bảng Thống kê & Giám sát)](#2-dashboard-bang-thong-ke--giam-sat)
-3. [Phân hệ 2: Quản lý Thành phẩm (Finished Products)](#3-quan-ly-thanh-pham-finished-products)
-4. [Phân hệ 3: Quản lý Nguyên vật liệu (Materials)](#4-quan-ly-nguyen-vat-lieu-materials)
-5. [Phân hệ 4: Danh mục Loại sản phẩm (Categories)](#5-danh-muc-loai-san-pham-categories)
-6. [Phân hệ 5: Danh mục Nhà cung cấp (Suppliers)](#6-danh-muc-nha-cung-cap-suppliers)
-7. [Phân hệ 6: Quản lý Đặt hàng Nhà cung cấp (Purchase Orders - PO)](#7-quan-ly-dat-hang-nha-cung-cap-purchase-orders---po)
-8. [Phân hệ 7: Nhập kho (Goods Import - PN)](#8-nhap-kho-goods-import---pn)
-9. [Phân hệ 8: Xuất kho (Goods Export - PX)](#9-xuat-kho-goods-export---px)
-10. [Phân hệ 9: Quản lý Xuất Nhập hàng Hợp nhất (Kho Logs)](#10-quan-ly-xuat-nhap-hang-hop-nhat-kho-logs)
-11. [Phân hệ 10: Định mức BOM (Bill of Materials)](#11-dinh-muc-bom-bill-of-materials)
-12. [Phân hệ 11: Lệnh sản xuất (Work Orders)](#12-lenh-san-xuat-work-orders)
-13. [Phân hệ 12: Quản lý Hàng đang xử lý (Processing / Bảo hành)](#13-quan-ly-hang-dang-xu-ly-processing--bao-hanh)
-14. [Phân hệ 13: Lịch sử Biến động Tồn kho & Audit Log](#14-lich-su-bien-dong-ton-kho--audit-log)
-15. [Phân hệ 14: Quản lý Tài khoản & Ma trận Phân quyền](#15-quan-ly-tai-khoan--ma-tran-phan-quyen)
-16. [Phân hệ 15: Nhật ký Hoạt động Hệ thống (Activity Log)](#16-nhat-ky-hoat-dong-he-thong-activity-log)
-17. [Phân hệ 16: Quản trị Hệ thống, Sao lưu & Cấu hình Link HDSD](#17-quan-tri-he-thong-sao-luu--cau-hinh-link-hdsd)
-18. [Quy định Phím tắt & Trải nghiệm Nhanh](#18-quy-dinh-phim-tat--trai-nghiem-nhanh)
+## 📑 MỤC LỤC NHANH
+
+1. [1. Tổng quan Hệ thống & Đăng nhập](#1-tổng-quan-hệ-thống--đăng-nhập)
+2. [2. Dashboard (Bảng Thống kê & Giám sát)](#2-dashboard-bảng-thống-kê--giám-sát)
+3. [3. Quản lý Thành phẩm (Finished Products)](#3-quản-lý-thành-phẩm-finished-products)
+4. [4. Quản lý Nguyên vật liệu (Materials)](#4-quản-lý-nguyên-vật-liệu-materials)
+5. [5. Danh mục Loại sản phẩm (Categories)](#5-danh-mục-loại-sản-phẩm-categories)
+6. [6. Danh mục Nhà cung cấp (Suppliers)](#6-danh-mục-nhà-cung-cấp-suppliers)
+7. [7. Quản lý Đặt hàng Nhà cung cấp (Purchase Orders - PO)](#7-quản-lý-đặt-hàng-nhà-cung-cấp-purchase-orders---po)
+8. [8. Nhập kho (Goods Import - PN)](#8-nhập-kho-goods-import---pn)
+9. [9. Xuất kho (Goods Export - PX)](#9-xuất-kho-goods-export---px)
+10. [10. Quản lý Xuất Nhập hàng Hợp nhất (Kho Logs)](#10-quản-lý-xuất-nhập-hàng-hợp-nhất-kho-logs)
+11. [11. Định mức BOM (Bill of Materials)](#11-định-mức-bom-bill-of-materials)
+12. [12. Lệnh sản xuất (Work Orders)](#12-lệnh-sản-xuất-work-orders)
+13. [13. Quản lý Hàng đang xử lý (Processing / Bảo hành)](#13-quản-lý-hàng-đang-xử-lý-processing--bảo-hành)
+14. [14. Lịch sử Biến động Tồn kho & Audit Log](#14-lịch-sử-biến-động-tồn-kho--audit-log)
+15. [15. Quản lý Tài khoản & Ma trận Phân quyền](#15-quản-lý-tài-khoản--ma-trận-phân-quyền)
+16. [16. Nhật ký Hoạt động Hệ thống (Activity Log)](#16-nhật-ký-hoạt-động-hệ-thống-activity-log)
+17. [17. Quản trị Hệ thống, Sao lưu & Cấu hình Link HDSD](#17-quản-trị-hệ-thống-sao-lưu--cấu-hình-link-hdsd)
+18. [18. Quy định Phím tắt & Trải nghiệm Nhanh](#18-quy-định-phím-tắt--trải-nghiệm-nhanh)
 
 ---
 
